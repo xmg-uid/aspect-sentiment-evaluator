@@ -1,0 +1,6 @@
+pandas>=1.3
+numpy>=1.21
+matplotlib>=3.5
+seaborn>=0.11
+pyabsa>=1.9
+openpyxl>=3.0
